@@ -1,0 +1,96 @@
+@WebApplication4_HostAddress = http://localhost:5172
+
+GET {{WebApplication4_HostAddress}}/api/balance/
+Accept: application/json
+
+###
+
+GET {{WebApplication4_HostAddress}}/api/products/
+Accept: application/json
+
+###
+
+POST {{WebApplication4_HostAddress}}/api/products/
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": 4,
+  "name": "cola"
+}
+
+GET {{WebApplication4_HostAddress}}/api/products?ids=1,2,3,4.
+Accept: application/json
+
+###
+
+
+### Обновление продукта 1
+PUT {{WebApplication4_HostAddress}}/api/products/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "qwery "
+  
+}
+
+
+### Полное обновление продукта 2
+
+
+PUT {{WebApplication4_HostAddress}}/api/products/2
+Content-Type: application/json
+
+{
+  "id": 2,
+  "name": "asdf "
+ 
+}
+
+### Полное обновление продукта 3
+PUT {{WebApplication4_HostAddress}}/api/products/3
+Content-Type: application/json
+
+{
+  "id": 3,
+  "name": "vcbnnv "
+ 
+}
+
+### Полное обновление продукта 4
+PUT {{WebApplication4_HostAddress}}/api/products/4
+Content-Type: application/json
+
+{
+  "id": 4,
+  "name": "yuimy "
+  
+}
+
+###
+
+DELETE {{WebApplication4_HostAddress}}/api/products/1
+
+###
+
+DELETE {{WebApplication4_HostAddress}}/api/products/2
+
+###
+
+DELETE {{WebApplication4_HostAddress}}/api/products/3
+
+###
+
+DELETE {{WebApplication4_HostAddress}}/api/products/4
+
+###
+
+
+
+
+
+
+
+
+

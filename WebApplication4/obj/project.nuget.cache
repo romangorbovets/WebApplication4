@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JzONlRULBPQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rgorb\\source\\repos\\Hello-2\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rgorb\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\rgorb\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
