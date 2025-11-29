@@ -1,0 +1,5 @@
+- GET /api/products` - получить все продукты
+- GET /api/products/{id}` - получить продукт по ID
+- POST /api/products` - создать новый продукт
+- PUT /api/products/{id}` - обновить продукт
+- DELETE /api/products/{id}` - удалить продукт
