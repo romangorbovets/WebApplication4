@@ -81,11 +81,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rgorb\\source\\repos\\Hello-2\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+      "projectUniqueName": "D:\\GitHub Desktop\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
       "projectName": "WebApplication4",
-      "projectPath": "C:\\Users\\rgorb\\source\\repos\\Hello-2\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+      "projectPath": "D:\\GitHub Desktop\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
       "packagesPath": "C:\\Users\\rgorb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rgorb\\source\\repos\\Hello-2\\WebApplication4\\WebApplication4\\obj\\",
+      "outputPath": "D:\\GitHub Desktop\\WebApplication4\\WebApplication4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
